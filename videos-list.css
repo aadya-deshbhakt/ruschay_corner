@@ -1,0 +1,114 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-image: url(Images//NightSky.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header{
+    background-color: #ffffffaa;
+    height: 14vh;
+    position: relative;
+    bottom: 0vh;
+    border-radius: 25px;
+}
+.header p{
+    font-size: 44px;
+    text-align: center;
+    position: relative;
+    bottom: 19vh;
+    left: 14vw;
+    width: 1100px;
+}
+.click_lassan{
+    width: 105px;
+    position: relative;
+    bottom: 3px;
+}
+.click_to_dance{
+    width: 70px;
+    height: 83px;
+    position: relative;
+    right: 85px;
+    bottom: 20px;
+    background: transparent;
+    border: transparent;
+}
+.page_links{
+    position: relative;
+    top: 11px;
+    left: 473px;
+    background-color: #ffd930dd;
+    border-radius: 25px;
+    height: 44px;
+    width: 34.4%;
+    display: flex;
+}
+.page_links a{
+    color: #000000;
+    position: relative;
+    left: 22px;
+    bottom: 14px;
+}
+.page_links p{
+    font-size: 22px;
+}
+.fan_art{
+    position: relative;
+    left: 44px;
+}
+.video_edits{
+    position: relative;
+    left: 88px;
+}
+.messages{
+    position: relative;
+    left: 132px;
+}
+.container{
+    display: flex;
+    margin-top: 22px;
+}
+.container a{
+    color: #000000;
+    height: 0px;
+}
+.video1{
+    width: 300px;
+}
+.thumbnail_1{
+    width: 375px;
+    border-radius: 25px;
+}
+.video_details{
+    display: flex;
+    width: 100%;
+    position: relative;
+    top: 11px;
+}
+.aadya_page_icon{
+    width: 75px;
+    border-radius: 50px;
+}
+.video_title{
+    height: 64px;
+    width: 300px;
+    background-color: #ffffffd6;
+    border-radius: 25px;
+    position: relative;
+    left: 11px;
+}
+.video_title p{
+    position: relative;
+    left: 16px;
+    bottom: 5px;
+}
+.video2{
+    width: 300px;
+    padding-left: 88px;
+}
+.thumbnail_2{
+    width: 375px;
+    border-radius: 25px;
+}
