@@ -22,9 +22,14 @@ a:hover {
     width: 100%;
     font-size: 300%;
     text-align: center;
+    display: flex;
+    gap: 33%;
 }
 .ruschay_corner p{
     margin: 0;
+}
+.click_lassan{
+    width: 5%;
 }
 
 .menu{
